@@ -2,7 +2,7 @@
 
 ### This project is currently used as issue tracker only.
 
-Resource Link: Soon <br>
-Documentation: Soon <br>
+Resource Link: Coming Soon <br>
+Documentation: Coming Soon <br>
 Discord Server: https://mher.club/discord </br>
 Donate: https://mher.club/donate
