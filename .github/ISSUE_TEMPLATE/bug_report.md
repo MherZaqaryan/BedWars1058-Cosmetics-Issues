@@ -24,7 +24,7 @@ If applicable, add screenshots to help explain your problem.
  - Server Software: [e.g. Paper, Spigot]
  - Software Version: [e.g. 1.8.9]
  - BedWars1058 Version: [e.g. 21.10.1]
- - Private Games Addon: [e.g. 1.1.1]
+ - Cosmetics Addon: [e.g. 1.1.1]
 
 **Additional context**
 Add any other context about the problem here.
