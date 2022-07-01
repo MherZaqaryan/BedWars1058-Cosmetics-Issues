@@ -1,6 +1,6 @@
 ---
 name: Cosmetic Request
-about: Suggest an idea for this project
+about: Request a new cosmetic for this project
 title: "[Cosmetic Request]"
 labels: cosmetic request
 assignees: ''
